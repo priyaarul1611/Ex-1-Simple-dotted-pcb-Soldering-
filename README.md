@@ -32,6 +32,12 @@ Trim the excess leads.
 Solder the battery wires:
 Red wire → resistor input.
 Black wire → LED cathode.
+<img width="1000" height="500" alt="image" src="https://github.com/user-attachments/assets/f51766cd-5489-4b63-8e53-18919c976d06" />
+<img width="1000" height="500" alt="image" src="https://github.com/user-attachments/assets/951b0a1a-3eb5-4644-90e6-0374278d56d1" />
+<img width="1000" height="800" alt="image" src="https://github.com/user-attachments/assets/e272ef58-6384-490e-824e-778b81472c26" />
+
+
+
 
 
 
